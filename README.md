@@ -7,6 +7,11 @@ This repository contains my **Entry Level Machine Learning Project** for the Cod
 ## 📌 Project Title
 Fraud Detection
 
+## 📂 Dataset
+This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
+🔗 Download Dataset:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## 📌 Objective
 To build a machine learning model that identifies fraudulent credit card transactions from a highly imbalanced dataset.
 
