@@ -26,7 +26,7 @@ To build a machine learning model that identifies fraudulent credit card transac
 - Matplotlib  
 
 ## 📌 Files Included
-- `Fraud_Detection_Tejas.ipynb` – Complete Colab notebook with code.
+Credit_Card_Fraud_Detection.ipynb
 
 ## 📌 Developed By
 **Tejas Vaghela**  
