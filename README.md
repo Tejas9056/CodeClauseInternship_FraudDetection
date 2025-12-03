@@ -26,16 +26,16 @@ To build a machine learning model that identifies fraudulent credit card transac
 - Matplotlib  
 
 ## ⚙️ How to Run the Project
-1. Open the project notebook in Google Colab.
-2. Upload the dataset file named `creditcard.csv` using the file upload option.
-3. Run all cells one-by-one from top to bottom.
-4. The model will train automatically and show:
+
+1. Open the `Credit_Card_Fraud_Detection.ipynb` notebook in Google Colab.
+2. Upload the dataset file named `creditcard.csv` when prompted.
+3. Run all the cells one-by-one from top to bottom.
+4. The notebook will train the machine learning model and show evaluation results including:
    - Accuracy
    - Precision
    - Recall
    - F1 Score
    - Confusion Matrix
-5. Check the output cells to view the evaluation and graphs.
 
 ## 📌 Files Included
 Credit_Card_Fraud_Detection.ipynb
