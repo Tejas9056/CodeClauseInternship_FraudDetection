@@ -25,9 +25,26 @@ To build a machine learning model that identifies fraudulent credit card transac
 - Scikit-learn  
 - Matplotlib  
 
+## ⚙️ How to Run the Project
+1. Open the project notebook in Google Colab.
+2. Upload the dataset file named `creditcard.csv` using the file upload option.
+3. Run all cells one-by-one from top to bottom.
+4. The model will train automatically and show:
+   - Accuracy
+   - Precision
+   - Recall
+   - F1 Score
+   - Confusion Matrix
+5. Check the output cells to view the evaluation and graphs.
+
 ## 📌 Files Included
 Credit_Card_Fraud_Detection.ipynb
 
 ## 📌 Developed By
 **Tejas Vaghela**  
 Data Science Intern @ CodeClause (Dec 2025)
+
+
+
+
+  
