@@ -27,11 +27,11 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
    - Confusion Matrix
 
 ## 🧰 Technologies Used and Purpose 
-Python --Coding & model development 
-Google Colab --Environment to run the notebook
-Pandas, NumPy --Data handling & manipulation 
-Scikit-learn --Model training & evaluation 
-Matplotlib --Plotting results 
+Python --Coding & model development, 
+Google Colab --Environment to run the notebook,
+Pandas, NumPy --Data handling & manipulation, 
+Scikit-learn --Model training & evaluation, 
+Matplotlib --Plotting results. 
 
 
 ## 📁 Files Included
